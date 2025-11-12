@@ -26,7 +26,7 @@
         /* O Desktop (Body) */
         body {
             /* Sua imagem do GitHub como background/desktop */
-            background: url('https://raw.githubusercontent.com/gusrlima/tumblrImages/main/abstract-blue-aero-dynamics-3j6khkqtryk5eeuh.jpg') no-repeat center center fixed;
+            background: url('https://raw.githubusercontent.com/LOLRAPOSO/TUMBLR-images/main/frutiger-aero-aesthetic-5yrq59tieyb9ckcy.jpg') no-repeat center center fixed;
             background-size: cover;
             font-family: var(--font-family);
             color: var(--text-color);

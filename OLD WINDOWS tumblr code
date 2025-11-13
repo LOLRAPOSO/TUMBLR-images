@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +33,7 @@
             padding: 0;
             line-height: 1.4;
             display: flex;
-            justify-content: center;
+            justify-content: flex-start; /* MODIFICADO: Alinha o conteúdo à esquerda */
             align-items: flex-start; /* Alinha a janela no topo da tela */
             min-height: 100vh;
         }
@@ -50,9 +49,9 @@
 
         /* A Janela Principal do Blog */
         #main-window {
-            width: 70%;
+            width: 60%;
             max-width: 800px;
-            margin: 30px auto;
+            margin: 30px auto 30px 5%;
             border-style: solid;
             border-width: 3px;
             border-color: var(--win-border-light) var(--win-border-dark) var(--win-border-dark) var(--win-border-light);
@@ -216,7 +215,6 @@
             }
             
             
-        }
         }
     </style>
     
